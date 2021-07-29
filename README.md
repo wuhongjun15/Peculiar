@@ -1,4 +1,4 @@
-### This is the online repository of the ESEC/FSE2021 paper titled "Lightweight Global and Local Contexts Guided Method Name Recommendation with Prior Knowledge".
+### This is the online repository of the ISSRE2021 paper titled "Peculiar: Smart Contract Vulnerability DetectionBased on Crucial Data Flow Graph and Pre-trainingTechniques".
 ## Task Definition
 
 Detect reentrancy vulnerabilities in smart contract.
