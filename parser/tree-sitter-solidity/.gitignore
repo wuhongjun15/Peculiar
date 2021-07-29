@@ -1,0 +1,7 @@
+# Yarn Integrity file
+.yarn-integrity
+
+
+# Dependency directories
+node_modules/
+.vscode/

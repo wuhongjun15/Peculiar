@@ -1,0 +1,2 @@
+saved_models/predictions.txt
+{'Recall': 0.924033734643918, 'Prediction': 0.9180114918377569, 'F1': 0.9210007974997634, 'Accuracy': 0.9981626799626926}
