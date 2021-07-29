@@ -1,5 +1,4 @@
-# Smart contract vulnerable detection
-
+### This is the online repository of the ESEC/FSE2021 paper titled "Lightweight Global and Local Contexts Guided Method Name Recommendation with Prior Knowledge".
 ## Task Definition
 
 Detect reentrancy vulnerabilities in smart contract.

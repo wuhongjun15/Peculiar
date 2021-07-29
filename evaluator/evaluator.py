@@ -48,8 +48,6 @@ def calculate_scores(answers, predictions):
             y_trues, y_preds, average='macro')
         score['F1'] = f1_score(
             y_trues, y_preds, average='macro')
-#        score['F1'] = f1_score(
-#            y_trues, y_preds,pos_label="1", average='binary')
         score["Accuracy"] = accuracy_score(y_trues, y_preds)
         scores.append(score)
     return scores
